@@ -35,6 +35,6 @@ public class HomeController {
 		logger.info("����������������Ǯ�۾�123211231323123");
 		return "home";
 	}
-	//하하하하하ggggggg
+	//하하하하하gggggggㅗㅗㅗㅗㅗ
 	
 }
