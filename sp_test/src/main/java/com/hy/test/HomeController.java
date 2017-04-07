@@ -32,9 +32,9 @@ public class HomeController {
 		String formattedDate = dateFormat.format(date);
 		
 		model.addAttribute("serverTime", formattedDate );
-		logger.info("����������������Ǯ�۾�123211231323123");
+		logger.info("占쏙옙占쏙옙占쏙옙占쏙옙占쏙옙占쏙옙占쏙옙占쏙옙풀占쌜억1232131옙123211231323123");
 		return "home";
 	}
-	//하하하하하gggggggㅗㅗㅗㅗㅗ
+	//�븯�븯�븯�븯�븯ggggggg�뀠�뀠�뀠�뀠�뀠
 	
 }
